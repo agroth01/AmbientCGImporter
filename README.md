@@ -1,2 +1,2 @@
 # AmbientCGImporter
-Automatically convert ambientCG textures into a unity format and create a material from it
+Import textures directly from AmbientCG into Unity and automatically convert textures to unity format and generate a material for it
