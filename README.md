@@ -1,2 +1,8 @@
 # AmbientCGImporter
-Import textures directly from AmbientCG into Unity and automatically convert textures to unity format and generate a material for it
+Import textures directly from [AmbientCG](https://ambientcg.com/) into Unity as quickly as possible. Automatically converts files to correct format for Unity and generates a material for it.
+
+# Installation
+You can find the latest version as a Unity package in the [release tab](https://github.com/agroth01/AmbientCGImporter/releases/tag/Unity). Then jsut drag the .unitypackage file into your project and follow wizard.
+
+# Usage
+Once the script is imported into your Unity project, you can access the tool through the menubar in "Tools/AmbientCG Importer". From here you need to paste the url for the texture you want. Example: https://ambientcg.com/view?id=Rock050. Then chose the desired texture resolution to download and press import! Once finished, your material will be located in the AmbientCGImporter folder.
