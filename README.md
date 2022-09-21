@@ -11,4 +11,5 @@ You can access the tool through the menubar at "Tools/AmbientCG Importer". From 
 The tool is very rough and could probably be improved upon and optimized. If you want to help, feel free to create a pull request.
 
 # Credits
-The original code for extracting and converting the textures into Unity format is taken from [this](https://forum.unity.com/threads/free-ambientcg-to-unity-texture-converter-1500-free-pbr-materials.1219455/) post. The creator deserves most of the credit, as this is based on his/her work!
+The original code for extracting and converting the textures into Unity format is taken from [this](https://forum.unity.com/threads/free-ambientcg-to-unity-texture-converter-1500-free-pbr-materials.1219455/) post. The creator deserves most of the credit, as this is based on his/her work!  
+  Also a big thank you to the developer of AmbientCG for such an amazing service. Definitely a great resource for any gamedev!
